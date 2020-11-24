@@ -8,4 +8,8 @@ public class test3 {
         System.out.println("yeni methodum hazir");
         System.out.println("sepete ekle kisimlari buralar");
     }
+    private static void sepettensil()
+    {
+        System.out.println("sebetten silindi ");
+    }
 }
